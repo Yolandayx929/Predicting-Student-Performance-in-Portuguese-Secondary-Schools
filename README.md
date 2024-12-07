@@ -1,5 +1,5 @@
 # Predicting Student Performance in Portuguese Secondary Schools
-This research project report has been submitted as an assignment for course **231A-STATS-101A Introduction to Data Analysis and Regression** in UCLA. This version has been adjusted for Github Repository for a better performance. 
+This research project report has been submitted as the final project for course **231A-STATS-101A Introduction to Data Analysis and Regression** in UCLA. This version has been adjusted for Github Repository for a better performance. 
 
 > [!WARNING]
 > Plagiarithm is an academic offence taken very seriously in UCLA and NUS, please refer to the Code of Student Conduct.
